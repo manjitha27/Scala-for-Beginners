@@ -1,0 +1,11 @@
+The name Scala stands for “scalable language.” The language is so named because it was designed to grow with the demand sofits users. 
+You can apply Scala to a wide range of programming tasks, from writing small scripts to building large systems. Scala is easy to get into. 
+It run sonthe standard Java plat form and it in teroperates seamlessly with all Java libraries. It’s a great language for writing scripts that 
+pull together Java components. But it can play out its strengths even more for building large systems and frame works of reusable components.
+Technically, Scala is a blend of object-oriented and functional programming concepts in a statically typed language. The fusion of 
+object-oriented and functional programming shows up in many different aspects of Scala; it is probably more pervasive than in anyother widely
+used language. The two programming styles have complementary strengths when it comes to scalability. Scala’s functional programming constructs
+make it easy to build interesting things quickly from simple parts. Its object-oriented constructs make it easy to structure larger systems 
+and to adapt them to new demands. The combination of both styles in Scala makes it possibleto express new kinds of programming patterns
+and component abstractions. It also leads to a legible and concise programming style. Because it is so malleable,programming in Scala can
+be a lot of fun. 
